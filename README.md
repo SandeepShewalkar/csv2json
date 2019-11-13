@@ -1,6 +1,6 @@
 # csv2json
 
-This small package will be helpful to covert csv file data to json array.
+This package will be helpful to covert csv file data to json array.
 
 # Sample
 
