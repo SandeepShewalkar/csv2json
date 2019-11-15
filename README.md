@@ -49,7 +49,7 @@ go get github.com/SandeepShewalkar/csv2json
 
 	csv2json.GetJSONByExcludingColumns("/home/Records.csv", 1, 14)
 
-	This function gets data by excluding column 1 and 14
+	This function gets data by excluding columns, 1 and 14
 
 
 	
