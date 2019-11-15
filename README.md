@@ -3,7 +3,7 @@
 
 Simplified way to read csv files and operate over data.
 This package is helpful to :
-	1. covert csv file data to JSON array.
+	1. convert csv file data to JSON array.
 	2. Get data from desired column
 	3. Get data from desired row
 	4. Get data by excluding columns
